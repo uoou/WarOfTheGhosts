@@ -1,6 +1,7 @@
 ---
 title: The War of the Ghosts
 layout: post
+author: simon
 ---
 
 ‘The War of the Ghosts’ is a Chinook story, recorded and translated by Franz Boaz (1901, 182-6), and subsequently used in a famous psychology experiment by Bartlett. Here is how Bartlett presented the tale in his report of 1920:
