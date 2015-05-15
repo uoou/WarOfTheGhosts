@@ -5,6 +5,8 @@ An experiment in scholarly composition on github. Project consists of a [Wiki](h
 
 _Collaborators_: primary researcher: Simon J. Cook; tehnical support: Andrew Holgate; composition advisor: Brad Hammer
 
+##### Expected date of completion: work to continue over the summer of 2015. It is hoped that an (unfinished) version of the book will be uploaded to the [Rounded Globe](http://roundedglobe.com/books) website sometime in the late summer.
+
 ##### Tentative Contents
 
 Introduction: the War of the Ghosts  
@@ -15,4 +17,4 @@ Conclusion
 
 ##### Thesis
 
-Today's disciplinary histories have obscured the intellectual wealth of the recent past, erroneously presenting the 'founders' as doing the same kind of thing as today's academics. By exploring the (overlooked) historical thought of three major thinkers - Marshall (economics), Bartlett (psychology), and Tolkien (English) - the essay reveals a now lost rounded globe of knowledge.
+Today's disciplinary histories have obscured the intellectual wealth of the recent past, erroneously presenting the 'founders' as doing the same kind of thing as today's academics. By exploring the (overlooked) historical thought of three major thinkers - Marshall (economics), Bartlett (psychology), and Tolkien (English) - the essay brings to light a now lost rounded globe of knowledge.
