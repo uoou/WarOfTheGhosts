@@ -5,7 +5,7 @@ An experiment in scholarly composition on github. Project consists of a [Wiki](h
 
 _Collaborators_: primary researcher: Simon J. Cook; tehnical support: Andrew Holgate; composition advisor: Brad Hammer
 
-##### Expected date of completion: work to continue over the summer of 2015. It is hoped that an (unfinished) version of the book will be uploaded to the [Rounded Globe](http://roundedglobe.com/books) website sometime in the late summer.
+_Expected date of completion_: work to continue over the summer of 2015. It is hoped that an (unfinished) version of the book will be uploaded to the [Rounded Globe](http://roundedglobe.com/books) website sometime in the late summer.
 
 ##### Tentative Contents
 
