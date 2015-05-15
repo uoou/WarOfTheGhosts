@@ -12,7 +12,7 @@ __Expected date of completion__: work to continue over the summer of 2015. It is
 Introduction: [War of the Ghosts](http://uoou.github.io/WarOfTheGhosts/war-of-the-ghosts/)  
 Chapter One: Marshall's histories  
 Chapter Two: [Bartlett's histories](http://uoou.github.io/WarOfTheGhosts/bartlett-history/)  
-Chapter Thre: Tolkien's histories  
+Chapter Three: Tolkien's histories  
 Conclusion
 
 ##### Project Aims
