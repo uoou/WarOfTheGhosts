@@ -7,10 +7,10 @@ _Collaborators_: primary researcher: Simon J. Cook; tehnical support: Andrew Hol
 
 ##### Tentative Contents
 
-Introduction: the War of the Ghosts
-Chapter One: Marshall's histories
-Chapter Two: Bartlett's histories
-Chapter Thre: Tolkien's histories
+Introduction: the War of the Ghosts  
+Chapter One: Marshall's histories  
+Chapter Two: Bartlett's histories  
+Chapter Thre: Tolkien's histories  
 Conclusion
 
 ##### Thesis
