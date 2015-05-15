@@ -17,4 +17,4 @@ Conclusion
 
 ##### Thesis
 
-Today's disciplinary histories have obscured the intellectual wealth of the recent past, erroneously presenting the 'founders' as doing the same kind of thing as today's academics. By exploring the (overlooked) historical thought of three major thinkers - Marshall (economics), Bartlett (psychology), and Tolkien (English) - the essay brings to light a now lost rounded globe of knowledge. [More](http://uoou.github.io/WarOfTheGhosts/thesis/).
+Academic disciplinary histories have obscured the intellectual wealth of the recent past, erroneously presenting the 'founders' as doing the same kind of thing as today's practioners. By exploring the (overlooked) historical thought of three major thinkers - Marshall (economics), Bartlett (psychology), and Tolkien (English) - the essay brings to light a now lost rounded globe of knowledge. [More](http://uoou.github.io/WarOfTheGhosts/thesis/).
