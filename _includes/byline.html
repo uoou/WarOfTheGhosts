@@ -1,0 +1,2 @@
+{% assign author = site.authors[page.author] %}
+<div class="byline">by <a href="mailto:{{ author.email }}">{{ author.name }}</a> on {{ page.date | date: '%B %d, %Y' }}</div>

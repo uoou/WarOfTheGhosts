@@ -1,18 +1,17 @@
 ---
 layout: default
 ---
-<div id="listcont">
-	<div id="logo">War of the Ghosts</div>
-	<div class="posts">
-	{% for post in site.posts %}
-		<article class="post">
-			<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-			<div>by {{post.author}} on {{post.date}}</div>
-			<div class="entry">
-				{{ post.excerpt }}
-			</div>
-			<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-		</article>
-	{% endfor %}
-	</div>
-</div>
+{% include site_header.html %}
+<section class="articlelist">
+	<ul>
+		{% for page in site.posts %}
+			<li>
+				<article>
+					<h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
+					{% include byline.html %}
+					<div class="excerpt">{{ page.excerpt }}</div>
+				</article>
+			</li>
+		{% endfor %}
+	</ul>
+</section>

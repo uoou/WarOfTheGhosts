@@ -1,7 +1,22 @@
-name: Grote Club
-description: Grote Club Blog
+name: War of the Ghosts
+description: War of the Ghosts Blog 
 baseurl: "/WarOfTheGhosts"
-
+links:
+    Home:
+        url: /WarOfTheGhosts/ 
+    Wiki:
+        url: https://github.com/uoou/WarOfTheGhosts/wiki 
+    GitHub:
+        url: https://github.com/uoou/WarOfTheGhosts/
+    Book:
+        url: /WarOfTheGhosts/book.html 
+authors:
+    simon:
+        name: Simon Cook
+        email: simonjohncook@gmail.com
+    brad:
+        name: Dr. Brad Hammer
+        email: 
 #
 # !! You don't need to change any of the configuration flags below !!
 #

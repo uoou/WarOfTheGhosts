@@ -1,0 +1,83 @@
+---
+---
+
+$font-stack:	Ubuntu, Calibri, sans-serif;
+$main-bg-col:	#fff;
+$header-font:	Palatino,"Book Antiqua",Garamond,"Palladio URW",serif;
+$heading-col:	#666;
+$link-col:		#1693A5;
+
+
+body {
+	font-family: $font-stack;
+	font-size: 1em;
+	margin: 2em;
+}
+a, a:visited {
+	text-decoration: none;
+	color: $link-col;
+}
+a:hover {
+	text-decoration: underline;
+}
+h1, h2, h3 {
+	font-family: $header-font;
+	color: $heading-col;
+	margin: 0;
+}
+h1 {
+	font-size: 5em;
+}
+h2 {
+	font-size: 3em;
+}
+h3 {
+	font-size: 2em;
+}
+header {
+	margin: 0 0 3em 0;
+	h1 {
+		padding: 0;
+		font-weight: 900;
+		font-style: oblique;
+		a, a:visited {
+			color: $heading-col;
+		}
+	}
+	nav {
+		text-align: right;
+		ul {
+			margin: 0;
+			padding: 0;
+			li {
+				display: inline;
+				padding: 0 0 0 1em;
+			}
+		}
+	}
+}
+section, header {
+	max-width: 960px;
+}
+section.articlelist {
+	ul {
+		list-style: none;
+		padding: 0 0 0 0;
+		li {
+			margin: 0 0 3em 0;
+		}
+		h3 {
+			margin: 0 0 0.3em 0;
+		}
+	}
+}
+div.excerpt, div.postcontent {
+	text-align: justify;
+	text-justify: inter-word;
+}
+div.postcontent {
+	margin: 2em 0 0 0;
+}
+div.byline {
+	font-size: 0.8em;
+}

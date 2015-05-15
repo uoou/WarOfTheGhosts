@@ -1,4 +1,10 @@
 {% include head.html %}
-	<h1>{{ page.title }}</h1>
-	{{ content }}
+{% include site_header.html %}
+	<section class="blogpost">
+		<article class="post">
+			<h2>{{ page.title }}</h2>
+			{% include byline.html %}
+			<div class="postcontent">{{ content }}</div>
+		</article>
+	</section>
 {% include foot.html %}
