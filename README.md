@@ -15,4 +15,4 @@ Conclusion
 
 ##### Thesis
 
-Today's disciplinary histories have obscured the intellectual wealth of the recent past, erroneously presenting the 'founders' as doing the same kind of thing as today's academics. By exploring the (overlooked) historical thought of three major thinkers - Marshall (economics), Bartlett (psychology), and Tolkien (English), the essay reveals a now lost rounded globe of knowledge.
+Today's disciplinary histories have obscured the intellectual wealth of the recent past, erroneously presenting the 'founders' as doing the same kind of thing as today's academics. By exploring the (overlooked) historical thought of three major thinkers - Marshall (economics), Bartlett (psychology), and Tolkien (English) - the essay reveals a now lost rounded globe of knowledge.
