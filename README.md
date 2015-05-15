@@ -3,7 +3,7 @@
 
 An experiment in scholarly composition on github. Project consists of a [Wiki](https://github.com/uoou/WarOfTheGhosts/wiki), a [blog](http://uoou.github.io/WarOfTheGhosts), and (eventually) an ebook (epub, mobi) that can be downloaded as the essay is written.
 
-__Collaborators__: primary researcher: Simon J. Cook; tehnical support: Andrew Holgate; composition advisor: Brad Hammer
+__Collaborators__: primary researcher: [Simon J. Cook](https://github.com/simonjcook) ([Twitter](https://twitter.com/yemachine)]); tehnical support: [Andrew Holgate](https://github.com/uoou); composition advisor: [Brad Hammer](https://github.com/drbradhammer)
 
 __Expected date of completion__: work to continue over the summer of 2015. It is hoped that an (unfinished) version of the book will be uploaded to the [Rounded Globe](http://roundedglobe.com/books) website sometime in the late summer.
 
