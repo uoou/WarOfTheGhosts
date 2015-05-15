@@ -3,9 +3,7 @@
 
 An experiment in scholarly composition on github. Project consists of a [Wiki](https://github.com/uoou/WarOfTheGhosts/wiki), a [blog](http://uoou.github.io/WarOfTheGhosts), and (eventually) an ebook (epub, mobi) that can be downloaded as the essay is written.
 
-Primary researcher: Simon J. Cook
-Tehnical support: Andrew Holgate
-Composition support: Brad Hammer
+_Collaborators_: primary researcher: Simon J. Cook; tehnical support: Andrew Holgate; composition advisor: Brad Hammer
 
 ##### Tentative Contents
 
