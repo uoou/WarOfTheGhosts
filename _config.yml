@@ -4,12 +4,12 @@ baseurl: "/WarOfTheGhosts"
 links:
     Home:
         url: /WarOfTheGhosts/ 
+    About:
+        url: https://github.com/uoou/WarOfTheGhosts/blob/gh-pages/README.md
     Wiki:
         url: https://github.com/uoou/WarOfTheGhosts/wiki 
     GitHub:
         url: https://github.com/uoou/WarOfTheGhosts/
-    About:
-        url: https://github.com/uoou/WarOfTheGhosts/blob/gh-pages/README.md
     Book:
         url: /WarOfTheGhosts/book.html 
 authors:
