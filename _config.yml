@@ -2,14 +2,14 @@ name: War of the Ghosts
 description: War of the Ghosts Blog 
 baseurl: "/WarOfTheGhosts"
 links:
-    Home:
-        url: /WarOfTheGhosts/ 
     About:
         url: https://github.com/uoou/WarOfTheGhosts/blob/gh-pages/README.md
     Wiki:
         url: https://github.com/uoou/WarOfTheGhosts/wiki 
     GitHub:
         url: https://github.com/uoou/WarOfTheGhosts/
+    Twitter:
+        url: https://twitter.com/yemachine
     Book:
         url: /WarOfTheGhosts/book.html 
 authors:
