@@ -9,7 +9,7 @@ _Collaborators_: primary researcher: Simon J. Cook; tehnical support: Andrew Hol
 
 ##### Tentative Contents
 
-Introduction: the War of the Ghosts  
+Introduction: [War of the Ghosts](http://uoou.github.io/WarOfTheGhosts/war-of-the-ghosts/)  
 Chapter One: Marshall's histories  
 Chapter Two: Bartlett's histories  
 Chapter Thre: Tolkien's histories  
@@ -17,4 +17,4 @@ Conclusion
 
 ##### Thesis
 
-Today's disciplinary histories have obscured the intellectual wealth of the recent past, erroneously presenting the 'founders' as doing the same kind of thing as today's academics. By exploring the (overlooked) historical thought of three major thinkers - Marshall (economics), Bartlett (psychology), and Tolkien (English) - the essay brings to light a now lost rounded globe of knowledge.
+Today's disciplinary histories have obscured the intellectual wealth of the recent past, erroneously presenting the 'founders' as doing the same kind of thing as today's academics. By exploring the (overlooked) historical thought of three major thinkers - Marshall (economics), Bartlett (psychology), and Tolkien (English) - the essay brings to light a now lost rounded globe of knowledge. (For more see blog post ['Thesis'](http://uoou.github.io/WarOfTheGhosts/thesis/).)
