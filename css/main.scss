@@ -13,6 +13,26 @@ body {
 	font-size: 1em;
 	margin: 2em;
 }
+.c, .s, .b {
+	font-size: 0.9em;
+	background-color: $comment-col;
+}
+p.c, p.s, p.b {
+	padding: 0.5em;
+}
+.c::before, .s::before, .b::before {
+	color: $highlight-col;
+	font-weight: bold;
+}
+.c::before {
+	content: "Chris: ";
+}
+.s::before {
+	content: "Simon: ";
+}
+.b::before {
+	content: "Brad: ";
+}
 a, a:visited {
 	text-decoration: none;
 	color: $link-col;
