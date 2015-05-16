@@ -13,7 +13,7 @@ Introduction: [War of the Ghosts](https://github.com/uoou/WarOfTheGhosts/wiki/Wa
 Chapter One: Marshall's histories  
 Chapter Two: [Bartlett's histories](http://uoou.github.io/WarOfTheGhosts/bartlett-history/)  
 Chapter Three: Tolkien's histories  
-Conclusion
+Conclusion: secret histories
 
 ##### Project Aims
 
